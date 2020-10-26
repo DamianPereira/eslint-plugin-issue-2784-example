@@ -4,4 +4,4 @@ This is a repository for the example in https://github.com/yannickcr/eslint-plug
 # How to reproduce
 
 1. `npm install`
-2. `npx eslint Example.tsx`
+2. `npx eslint src/Example.tsx`
